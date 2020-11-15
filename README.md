@@ -6,7 +6,7 @@ The datasets we used are from:
 - http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/
 - https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
-More in the project report ./project.pdf
+More in the project report ![Project Report](./project.pdf)
 
 ## Training
 
