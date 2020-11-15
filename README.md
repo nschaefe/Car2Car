@@ -3,8 +3,8 @@
 
 Image to image translation using StarGAN(https://github.com/yunjey/stargan). Transforms a car to a target make.
 The datasets we used are from:
-http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/
-https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+- http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/
+- https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 More in the project report ./project.pdf
 
